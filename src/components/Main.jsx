@@ -52,12 +52,13 @@ const Main = () => {
         id="slider"
         className="bg-transparent relative flex w-full py-8 gap-2 px-2 scroll-smooth overflow-hidden"
       >
-        {
-          isLoading 
-        }
-        {data.map((item) => (
-          <Card key={item?.id} item={item} />
-        ))}
+        {isLoading
+          ? new Array(10)
+              .fill(0)
+              .map((i, index) => (
+                <div key={index} className="shrink-0 w-60 rounded-lg aspect-[4/5] bg-gray-400 animate-pulse "></div>
+              ))
+          : data.map((item) => <Card key={item?.id} item={item} />)}
       </div>
     </div>
   );

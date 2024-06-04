@@ -4,10 +4,7 @@ import { MdBookmarkAdd } from "react-icons/md";
 
 const Card = ({ item }) => {
   return (
-    <div
-      key={item?.id}
-      className=" relative  flex-flex-col group hover:scale-110 delay-75 duration-300 hover:z-20 transition-all card"
-    >
+    <div className=" relative  flex-flex-col group hover:scale-110 delay-75 duration-300 hover:z-20 transition-all card">
       <div className="w-60">
         <img
           className="aspect-[4/5] rounded-lg object-cover"
