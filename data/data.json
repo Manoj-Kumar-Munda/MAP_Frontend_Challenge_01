@@ -3,7 +3,7 @@
         "id": 1,
         "url": "/assets/SamplePic01.JPG",
         "title": "Portrait shot of a boy",
-        "description":"",
+        "description":"Portrait shot of a boy posing for a picture",
         "tags": "Trending",
         "features": ["Share"]
 
@@ -31,18 +31,18 @@
     {
         "id": 4,
         "url": "/assets/SamplePic04.jpg",
-        "title": "Portrait shot of a boy",
-        "description":"",
-        "tags": ""
-       
-
+        "title": "Explore Budapest",
+        "description":"Vist Budapest to explore the beautiful city.",
+        "tags": "Onwards $600"
     },
     {
         "id": 5,
         "url": "/assets/SamplePic05.jpg",
-        "title": "Portrait shot of a boy",
-        "description":"",
-        "tags": "Trending",
+        "title": "Enjoy 3D/2N trip to Budapest",
+        "cardType" : "product",
+        "description":"Get the best experience in Budapest. Plan your vacation with us.",
+        "tags": "",
+        "price": "$600 onwards",
         "features": ["Save for later", "Share"]
 
     },
