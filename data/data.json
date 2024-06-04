@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "url": "/assets/SamplePic01.JPG",
+        "title": "Portrait shot of a boy",
+        "description":"",
+        "tags": "Trending",
+        "features": ["Share"]
+
+    },
+    {
+        "id": 2,
+        "url": "/assets/SamplePic02.jpg",
+        "title": "Girl Smelling Yellow Flowers",
+        "description":"A young woman stands in a sunlit meadow, eyes closed and smiling as she inhales the sweet scent of vibrant yellow flowers. The soft sunlight casts a warm glow on her face, highlighting her serene beauty.",
+        "tags": "Trending",
+        "features": ["Share"]
+
+    },
+    {
+        "id": 3,
+        "url": "/assets/SamplePic03.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 4,
+        "url": "/assets/SamplePic04.jpg",
+        "title": "Portrait shot of a boy",
+        "description":"",
+        "tags": ""
+       
+
+    },
+    {
+        "id": 5,
+        "url": "/assets/SamplePic05.jpg",
+        "title": "Portrait shot of a boy",
+        "description":"",
+        "tags": "Trending",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 6,
+        "url": "/assets/SamplePic06.jpg",
+        "title": "Portrait shot of a boy",
+        "description":"",
+        "tags": "Trending",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 7,
+        "url": "/assets/SamplePic07.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 8,
+        "url": "/assets/SamplePic08.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 9,
+        "url": "/assets/SamplePic09.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 10,
+        "url": "/assets/SamplePic10.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 11,
+        "url": "/assets/SamplePic11.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 12,
+        "url": "/assets/SamplePic12.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 13,
+        "url": "/assets/SamplePic13.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 14,
+        "url": "/assets/SamplePic14.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 15,
+        "url": "/assets/SamplePic15.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 16,
+        "url": "/assets/SamplePic16.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 17,
+        "url": "/assets/SamplePic17.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 18,
+        "url": "/assets/SamplePic18.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 19,
+        "url": "/assets/SamplePic19.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    },
+    {
+        "id": 20,
+        "url": "/assets/SamplePic20.jpg",
+        "title": "Trendif",
+        "cardType": "product",
+        "description":"Polyster Moss Solid Coat For Women",
+        "price" : "200$", 
+        "tags": "Bestseller",
+        "features": ["Save for later", "Share"]
+
+    }
+]
