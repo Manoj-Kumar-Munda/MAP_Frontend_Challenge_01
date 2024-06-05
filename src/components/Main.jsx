@@ -50,7 +50,7 @@ const Main = () => {
 
       <div
         id="slider"
-        className="bg-transparent relative flex w-full py-8 gap-2 px-2 scroll-smooth overflow-hidden"
+        className="bg-transparent relative flex w-full py-8 gap-2 px-2 scroll-smooth overflow-x-auto scrollbar-none"
       >
         {isLoading
           ? new Array(10)
