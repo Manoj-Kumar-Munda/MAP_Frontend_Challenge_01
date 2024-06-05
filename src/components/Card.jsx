@@ -1,7 +1,4 @@
 import React from "react";
-import { PiShare } from "react-icons/pi";
-import { MdBookmarkAdd } from "react-icons/md";
-import FeaturesBtn from "./FeaturesBtn";
 import ProductCard from "./ProductCard";
 import EventCard from "./EventCard";
 

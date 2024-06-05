@@ -1,10 +1,16 @@
+import { createContext } from "react";
 import Main from "./components/Main";
+import Popups from "./components/Popups";
+import { PopupContextProvider } from "./components/PopuopContext";
 
 function App() {
   return (
-  <>
-    <Main />
-  </>
+    <>
+      <PopupContextProvider>
+        <Popups />
+        <Main />
+      </PopupContextProvider>
+    </>
   );
 }
 

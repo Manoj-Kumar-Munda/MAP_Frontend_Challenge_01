@@ -8,6 +8,7 @@ const Main = () => {
   const [backBtnVisible, setBackBtnVisible] = useState(false);
   const [forwardBtnVisible, setForwardBtnVisible] = useState(false);
 
+ 
   //mock loading
   useEffect(() => {
     let timeout = setTimeout(() => setIsLoading(false), 3000);
