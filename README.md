@@ -7,15 +7,13 @@ This is a simple frontend project created using React. Here, I have created a ho
   - You must have the latest node version installed on your system.
   - Install npm.
 
-### 1. Installation
-  - Clone the repository 
-          ` git clone https://github.com/Manoj-Kumar-Munda/MAP_Frontend_Challenge_01.git 
-           cd MAP_Frontend_Challenge_01 `
+  ### 1. Clone the repository
+          git clone https://github.com/Manoj-Kumar-Munda/MAP_Frontend_Challenge_01.git
+          cd MAP_Frontend_Challenge_01
   ### 2. Install dependencies
         npm install 
 
-## Usage
-  - To run the development server and start the application:
-    ` npm run dev `
+## Start the development server
+    npm run dev 
 
 
