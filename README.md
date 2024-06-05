@@ -8,15 +8,15 @@ This is a simple frontend project created using React. Here, I have created a ho
   - Install npm.
 
   ### 1. Installation
-        Clone the repository: 
-          Run this command on your terminal -
-          git clone https://github.com/Manoj-Kumar-Munda/MAP_Frontend_Challenge_01.git
-          cd MAP_Frontend_Challenge_01
+  - Clone the repository: 
+    Run this command on your terminal -
+          ` git clone https://github.com/Manoj-Kumar-Munda/MAP_Frontend_Challenge_01.git 
+           cd MAP_Frontend_Challenge_01 `
   ### 2. Install dependencies
         npm install 
 
 ## Usage
   - To run the development server and start the application:
-    npm run dev
+    ` npm run dev `
 
 
