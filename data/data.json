@@ -4,17 +4,14 @@
         "url": "/assets/SamplePic01.JPG",
         "title": "Portrait shot of a boy",
         "description":"Portrait shot of a boy posing for a picture",
-        "tags": "Trending",
-        "features": ["Share"]
-
+        "tags": "Trending"
     },
     {
         "id": 2,
         "url": "/assets/SamplePic02.jpg",
         "title": "Girl Smelling Yellow Flowers",
         "description":"A young woman stands in a sunlit meadow, eyes closed and smiling as she inhales the sweet scent of vibrant yellow flowers. The soft sunlight casts a warm glow on her face, highlighting her serene beauty.",
-        "tags": "Trending",
-        "features": ["Share"]
+        "tags": "Photography"
 
     },
     {
@@ -26,187 +23,148 @@
         "price" : "200$", 
         "tags": "Bestseller",
         "features": ["Save for later", "Share"]
-
     },
     {
         "id": 4,
         "url": "/assets/SamplePic04.jpg",
         "title": "Explore Budapest",
         "description":"Vist Budapest to explore the beautiful city.",
-        "tags": "Onwards $600"
+        "tags": "Travel"
     },
     {
         "id": 5,
         "url": "/assets/SamplePic05.jpg",
         "title": "Enjoy 3D/2N trip to Budapest",
         "cardType" : "product",
-        "description":"Get the best experience in Budapest. Plan your vacation with us.",
-        "tags": "",
-        "price": "$600 onwards",
+        "description":"Get the best experience in Budapest. Plan your vacation with us. Starting at",
+        "tags": "Travel",
+        "price": "$600",
         "features": ["Save for later", "Share"]
 
     },
     {
         "id": 6,
         "url": "/assets/SamplePic06.jpg",
-        "title": "Portrait shot of a boy",
-        "description":"",
-        "tags": "Trending",
-        "features": ["Save for later", "Share"]
-
+        "title": "Sunburn Arena Ft. John Doe",
+        "description":"Hyderabad",
+        "cardType": "event",
+        "date" : "9th June, 2024",
+        "tags": "Event",
+        "features": ["Share"]
     },
     {
         "id": 7,
         "url": "/assets/SamplePic07.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "Soulful nights ft. Chris Angel",
+        "cardType": "event",
+        "date" : "12th June, 2024",
+        "description":"Bhaskara Auditorium, Hyderabad",
+        "tags": "Event",
+        "features": [ "Share"]
     },
     {
         "id": 8,
         "url": "/assets/SamplePic08.jpg",
-        "title": "Trendif",
+        "title": "Air Jordan 1 Obsidian",
         "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
+        "description":"Available exclusively on our store",
+        "price" : "$100", 
         "tags": "Bestseller",
         "features": ["Save for later", "Share"]
-
     },
     {
         "id": 9,
         "url": "/assets/SamplePic09.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
+        "title": "3D/4N London Holiday Package",
+        "description":"Get the best experience in London. Plan your vacation with us.",
         "price" : "200$", 
-        "tags": "Bestseller",
+        "tags": "Travel",
         "features": ["Save for later", "Share"]
-
     },
     {
         "id": 10,
         "url": "/assets/SamplePic10.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
+        "title": "Spiderman 2",
+        "description":"Peter Parker struggles to balance his crime-fighting duties as Spider-Man with the demands of his normal life. He loses a job, faces financial difficulties, and struggles to attend his physics lectures at Columbia University on time. ", 
+        "tags": "Movie",
         "features": ["Save for later", "Share"]
-
     },
     {
         "id": 11,
         "url": "/assets/SamplePic11.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "Life at NYC",
+        "description":"New York City: Where every moment pulses with energy and ambition.",
+        "tags": "City"
     },
     {
         "id": 12,
         "url": "/assets/SamplePic12.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "Beauty in a desert.",
+        "description":"A model posing for a magazine.",
+        "tags": "Photoshoot"
     },
     {
         "id": 13,
         "url": "/assets/SamplePic13.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "Explore NorthEast",
+        "description":"Ready for adventures, treks and lot more. Visit NorthEast India.",
+        "tags": "Travel"
+        
     },
     {
         "id": 14,
         "url": "/assets/SamplePic14.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "Buddha Statue, Colombo",
+        "description":"SriLanka",
+        "tags": "Travel"
     },
     {
         "id": 15,
         "url": "/assets/SamplePic15.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "Beautiful mosque in Colombo",
+        "description":"SriLanka",
+        "tags": "Travel"
     },
     {
         "id": 16,
         "url": "/assets/SamplePic16.jpg",
-        "title": "Trendif",
+        "title": "Explore Ladakh with us",
         "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
+        "description":"Enjoy bike riding on the beautiful roads of Ladakh. Packages starting at",
         "price" : "200$", 
         "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
+        "features": ["Share"]
 
     },
     {
         "id": 17,
         "url": "/assets/SamplePic17.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
+        "title": "Manhattan Bridge",
+        "description":"Brooklyn Bridge",
+        "tags": "Architecture"
 
     },
     {
         "id": 18,
         "url": "/assets/SamplePic18.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
+        "title": "Taj Mahal, Delhi, India",
+        "description":"Majestic in its symmetry and eternal in its love, the Taj Mahal stands as a timeless tribute to architectural brilliance and enduring romance.",
+        "tags": "Buildings",
         "features": ["Save for later", "Share"]
 
     },
     {
         "id": 19,
         "url": "/assets/SamplePic19.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "Morning at Kashmir",
+        "description":"A beautiful morning in Kashmir, India", 
+        "tags": "Photgraphy"
     },
     {
         "id": 20,
         "url": "/assets/SamplePic20.jpg",
-        "title": "Trendif",
-        "cardType": "product",
-        "description":"Polyster Moss Solid Coat For Women",
-        "price" : "200$", 
-        "tags": "Bestseller",
-        "features": ["Save for later", "Share"]
-
+        "title": "The Kasol Diary",
+        "description":"A beautiful shot captured.",
+        "tags": "Photography"
     }
 ]

@@ -2,6 +2,8 @@ import React from "react";
 import { PiShare } from "react-icons/pi";
 import { MdBookmarkAdd } from "react-icons/md";
 import FeaturesBtn from "./FeaturesBtn";
+import ProductCard from "./ProductCard";
+import EventCard from "./EventCard";
 
 const Card = ({ item }) => {
   return (
@@ -20,15 +22,9 @@ const Card = ({ item }) => {
         <p className="text-[10px] line-clamp-2  ">{item?.description}</p>
 
         {item?.cardType === "product" && (
-          <div className="flex justify-between items-center">
-            <span className="text-sm font-semibold">{item?.price}</span>
-            <div className="flex gap-2 items-center">
-              {
-                item?.features.map( (i) => <FeaturesBtn key={i} btnTitle={i} /> )
-              }
-            </div>
-          </div>
+          <ProductCard item={item} />
         )}
+        { item?.cardType === "event" && <EventCard item={item} />}
       </div>
 
       {item.tags && (
